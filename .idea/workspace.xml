@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adb2680a-961a-42e6-9503-7c9017195ef1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/githubapi$GithubapiApplication.ic" NAME="GithubapiApplication Coverage Results" MODIFIED="1583624968879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.devapo.githubapi.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/githubapi" value="feature/zadanie" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Mróz_Mrozikowski\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YoCAA1OSZVeRU8oe2ATrky8rSx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583688302584" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.devapo.githubapi.controller" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://pmroz1995@bitbucket.org/pmroz1995/githubapi.git" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.devapo.githubapi.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GithubapiApplicationTests">
+    <configuration name="GithubapiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.devapo.githubapi.GithubapiApplication" />
+      <module name="githubapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.devapo.githubapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiControllerIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="githubapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.devapo.githubapi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.devapo.githubapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.devapo.githubapi.controller.ApiControllerIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubapiApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="githubapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.devapo.githubapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.devapo.githubapi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.devapo.githubapi.GithubapiApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubapiApplicationTests.full_name_should_be_the_same" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="githubapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.devapo.githubapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.devapo.githubapi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.devapo.githubapi.GithubapiApplicationTests" />
+      <option name="METHOD_NAME" value="full_name_should_be_the_same" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubapiApplicationTests.stars_should_be_the_same" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="githubapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.devapo.githubapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.devapo.githubapi" />
+      <option name="MAIN_CLASS_NAME" value="com.example.devapo.githubapi.GithubapiApplicationTests" />
+      <option name="METHOD_NAME" value="stars_should_be_the_same" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="githubapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.devapo.githubapi.GithubapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GithubapiApplicationTests" />
+        <item itemvalue="Application.GithubapiApplication" />
+        <item itemvalue="JUnit.GithubapiApplicationTests.stars_should_be_the_same" />
+        <item itemvalue="JUnit.GithubapiApplicationTests.full_name_should_be_the_same" />
+        <item itemvalue="JUnit.ApiControllerIT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adb2680a-961a-42e6-9503-7c9017195ef1" name="Default Changelist" comment="" />
+      <created>1583181277230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583181277230</updated>
+      <workItem from="1583181283289" duration="2923000" />
+      <workItem from="1583261230544" duration="5881000" />
+      <workItem from="1583354288120" duration="8495000" />
+      <workItem from="1583425691323" duration="7234000" />
+      <workItem from="1583528180560" duration="11275000" />
+      <workItem from="1583577486474" duration="16350000" />
+      <workItem from="1583596318991" duration="791000" />
+      <workItem from="1583597160119" duration="1571000" />
+      <workItem from="1583601392869" duration="877000" />
+      <workItem from="1583602965983" duration="306000" />
+      <workItem from="1583603398927" duration="1898000" />
+      <workItem from="1583623267832" duration="5967000" />
+      <workItem from="1583681002325" duration="5020000" />
+      <workItem from="1583687980568" duration="381000" />
+      <workItem from="1583688381434" duration="39000" />
+      <workItem from="1583698885854" duration="6000" />
+      <workItem from="1583699003005" duration="280000" />
+      <workItem from="1583700637980" duration="477000" />
+      <workItem from="1583705476211" duration="516000" />
+      <workItem from="1583706032890" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70383000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2131" y="-343" key="#com.intellij.ide.util.MemberChooser" timestamp="1583701147765" />
+    <state x="2131" y="-343" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147767" />
+    <state x="2177" y="-135" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583701147767" />
+    <state x="2177" y="-135" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147767" />
+    <state x="2056" y="-280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583701147768" />
+    <state x="2056" y="-280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="2081" y="-324" key="#xdebugger.evaluate" timestamp="1583701147768" />
+    <state x="2081" y="-324" key="#xdebugger.evaluate/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="1926" y="-433" key="CommitChangelistDialog2" timestamp="1583701147768" />
+    <state x="1926" y="-433" key="CommitChangelistDialog2/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="1458" y="-455" width="1736" height="856" key="DiffContextDialog" timestamp="1583701147768" />
+    <state x="1458" y="-455" width="1736" height="856" key="DiffContextDialog/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="2106" y="-272" key="FileChooserDialogImpl" timestamp="1583701263142">
+      <screen x="1366" y="-547" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="-272" key="FileChooserDialogImpl/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701263142" />
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom" timestamp="1584809762839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-547.1920.1040@0.0.1366.728" timestamp="1584809762839" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1323" height="273" key="GridCell.Tab.0.center" timestamp="1584809762838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.center/0.0.1366.728/1366.-547.1920.1040@0.0.1366.728" timestamp="1584809762838" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1323" height="273" key="GridCell.Tab.0.left" timestamp="1584809762838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.left/0.0.1366.728/1366.-547.1920.1040@0.0.1366.728" timestamp="1584809762838" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1323" height="273" key="GridCell.Tab.0.right" timestamp="1584809762839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.right/0.0.1366.728/1366.-547.1920.1040@0.0.1366.728" timestamp="1584809762839" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.bottom" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.center" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.center/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.left" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.left/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.right" timestamp="1583701147768" />
+    <state width="1877" height="295" key="GridCell.Tab.1.right/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="1829" y="-382" key="SettingsEditor" timestamp="1583701147768" />
+    <state x="1829" y="-382" key="SettingsEditor/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="1458" y="-455" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583701147768" />
+    <state x="1458" y="-455" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584895337517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-547.1920.1040@0.0.1366.728" timestamp="1584895337517" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701272042" />
+    <state x="0" y="0" width="1382" height="671" maximized="true" key="dock-window-1" timestamp="1583701147768" />
+    <state x="0" y="0" width="1382" height="671" maximized="true" key="dock-window-1/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+    <state x="2022" y="-429" width="607" height="804" key="find.popup" timestamp="1583701147768" />
+    <state x="2022" y="-429" width="607" height="804" key="find.popup/0.0.1366.728/1366.-547.1920.1040@1366.-547.1920.1040" timestamp="1583701147768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/service/ApiServiceImpl.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/service/ApiServiceImpl.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/service/ApiServiceImpl.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/dto/Mapper.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/dto/Mapper.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/service/ApiServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/devapo/githubapi/controller/ApiController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>githubapi:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>githubapi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
